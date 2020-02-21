@@ -3,8 +3,8 @@ Challenge Resolved by Alberto Cruz Luis
 
 ### List of Challenge
 
-[AlmostIncreaseSequence](./AlmostIncreaseSequence.cpp)
+- [AlmostIncreaseSequence](./AlmostIncreaseSequence.cpp)
 
-[ReverseInParenthesis](./ReverseInParenthesis.cpp)
+- [ReverseInParenthesis](./ReverseInParenthesis.cpp)
 
-[Minesweeper](Minesweeper.cpp)
+- [Minesweeper](Minesweeper.cpp)
