@@ -1,6 +1,5 @@
 # Programming Challenge - CodeSignal
 
-------------------------------------
 
 ### List of Challenge
 
