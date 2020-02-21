@@ -6,3 +6,5 @@ Challenge Resolved by Alberto Cruz Luis
 [AlmostIncreaseSequence](./AlmostIncreaseSequence.cpp)
 
 [ReverseInParenthesis](./ReverseInParenthesis.cpp)
+
+[Minesweeper](Minesweeper.cpp)
