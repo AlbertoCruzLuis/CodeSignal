@@ -1,5 +1,6 @@
 # Programming Challenge - CodeSignal
-Challenge Resolved by Alberto Cruz Luis
+
+------------------------------------
 
 ### List of Challenge
 
@@ -8,3 +9,7 @@ Challenge Resolved by Alberto Cruz Luis
 - [ReverseInParenthesis](./ReverseInParenthesis.cpp)
 
 - [Minesweeper](Minesweeper.cpp)
+
+---------------------------------------
+
+Challenge Resolved by Alberto Cruz Luis
